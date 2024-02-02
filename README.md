@@ -21,6 +21,6 @@ I'm always looking to collaborate with fellow researchers and developers. If you
 
 ### Contact
 
-For more information on my work or to discuss potential collaborations, please contact me at ryan [dot] abramowitz [at] umassmed [dot] edu.
+For more information on my work or to discuss potential collaborations, please contact me at ryan.abramowitz@umassmed.edu.
 
 Thank you for exploring my contributions to Maehrlab. Together, we're pushing the boundaries of scientific discovery and innovation.
